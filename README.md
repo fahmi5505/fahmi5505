@@ -21,8 +21,10 @@ Pelajar Sains Komputer / Peminat Teknologi yang sedang mendalami dunia pembangun
 ---
 
 ### 📬 Hubungi Saya
-- **LinkedIn:** [linkedin.com/in/pautan-anda](https://linkedin.com)
-- **Emel:** fahmi@example.com
+- **LinkedIn:** [linkedin.com/in/pautan-anda](www.linkedin.com/in/
+ahmad-fahmi-bin-mohd-fakharuddin-b776a8443
+)
+- **Emel:** fahmi-07@graduate.utm.my
 
 ---
 *⭐️ "Consistency and curiosity drive continuous learning."*
