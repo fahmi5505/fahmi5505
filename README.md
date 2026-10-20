@@ -18,14 +18,6 @@ Pelajar Sains Komputer / Peminat Teknologi yang sedang mendalami dunia pembangun
 - **Bidang Tumpuan:** Analisis Data, Algoritma, Kejuruteraan Perisian
 
 ---
-
-### 📊 Statistik GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=tokyonight" alt="Statistik GitHub Fahmi" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=tokyonight" alt="Bahasa Pengaturcaraan Utama" />
-</p>
-
 ---
 
 ### 📬 Hubungi Saya
